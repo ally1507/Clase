@@ -1,4 +1,4 @@
-iimport os
+import os
 import random
 
 aleatorio = random.random()
